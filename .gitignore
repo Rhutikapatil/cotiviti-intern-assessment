@@ -1,0 +1,8 @@
+# Raw Kaggle data is not redistributed; download it yourself (see data/README.md)
+data/*.csv
+data/*.zip
+.ipynb_checkpoints/
+venv/
+.venv/
+__pycache__/
+.DS_Store
